@@ -22,7 +22,7 @@
 
 
     <FrameLayout
-        android:id="@+id/Frame_layout"
+        android:id="@+id/frame_layout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
